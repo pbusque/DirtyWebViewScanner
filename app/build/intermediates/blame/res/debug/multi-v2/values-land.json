@@ -1,0 +1,53 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\peter\\AndroidStudioProjects\\CiiS5\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\peter\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-24.0.0.aar\\7b1ce1bbafca1388f3a20bb9d891b769\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "705,780,858",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "775,853,928"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\peter\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0.aar\\df2f429fe689e6f8c1eccb957bb1b89c\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\peter\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-9.8.0.aar\\f5699444c816761e88759affa44ed4ce\\res\\values-land\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "0,0,0,0",
+                        "startOffsets": "183,271,358,453",
+                        "endColumns": "87,86,94,90",
+                        "endOffsets": "270,357,452,543"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "328,420,511,610",
+                        "endColumns": "91,90,98,94",
+                        "endOffsets": "415,506,605,700"
+                    }
+                }
+            ]
+        }
+    ]
+}
